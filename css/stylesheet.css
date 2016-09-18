@@ -20,11 +20,11 @@ body {
 
 .header {
     text-align: center;
-    margin-top: 10%;
+    margin-top: 13em;
 }
 
-#title {
-    font-size: 3em;
+.title {
+    font-size: 5em;
 }
 
 .content {
@@ -41,13 +41,21 @@ body {
 
 #camera {
     width: 70%;
-    height: 20em;
+    height: 60em;
     border: 1px blue dashed;
     margin: auto;
+    margin-bottom: 5em;
 }
 
-#button {
+.button {
     border: 1px #58C6D1 dashed;
+    background-color: #58C6D1;
+    padding: 0.5em;
+    border-radius: 25px;
+    margin-top: 10em;
+    font-size: 3em;
+    color: white;
+    text-decoration: none;
 }
 
 #CodeSearch * {
@@ -75,7 +83,7 @@ body {
     position: fixed;
     bottom: 0;
     background-color: #58c6d2;
-    height: 70px;
+    height: 13em;
     width: 100%;
     margin: 0;
     text-align: center;
