@@ -20,11 +20,11 @@ body {
 
 .header {
     text-align: center;
-    margin-top: 10%;
+    margin-top: 10em;
 }
 
-#title {
-    font-size: 3em;
+.title {
+    font-size: 5em;
 }
 
 .content {
@@ -33,21 +33,26 @@ body {
 
 #camera {
     width: 70%;
-    height: 20em;
+    height: 60em;
     border: 1px blue dashed;
     margin: auto;
 }
 
-#button {
+.button {
     border: 1px blue dashed;
+    font-family: Dosis;
+    font-size: 3em;
+    margin-top: 3em;
+    
 }
+
 
 .footer {
     clear: both;
     position: fixed;
     bottom: 0;
     background-color: #58c6d2;
-    height: 70px;
+    height: 13em;
     width: 100%;
     margin: 0;
     text-align: center;
