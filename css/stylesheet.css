@@ -89,3 +89,18 @@ body {
     text-align: center;
     color: white;
 }
+
+.footer_left {
+    float: left;
+    margin: 3em;
+}
+
+.footer_right {
+    float: right;
+    margin: 3em;
+}
+
+.icon {
+    width: 120x;
+    height: 120px;
+}
