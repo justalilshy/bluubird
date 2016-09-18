@@ -104,3 +104,13 @@ body {
     width: 120x;
     height: 120px;
 }
+
+.tutorial {
+    width: 70%;
+    margin: 0;
+    margin-bottom: 10em;
+}
+
+#headertutorial {
+    margin-top: 3em;
+}
